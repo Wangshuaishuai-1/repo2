@@ -1,0 +1,8 @@
+com\itheima\itcast\ssm\dao\logs\ISysLogDao.class
+com\itheima\itcast\ssm\dao\product\ITravellerDao.class
+com\itheima\itcast\ssm\dao\users\IUserDao.class
+com\itheima\itcast\ssm\dao\product\IOrdersDao.class
+com\itheima\itcast\ssm\dao\product\IMemberDao.class
+com\itheima\itcast\ssm\dao\users\IPermissionDao.class
+com\itheima\itcast\ssm\dao\users\IRoleDao.class
+com\itheima\itcast\ssm\dao\product\IProductDao.class

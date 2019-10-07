@@ -1,0 +1,12 @@
+com\itheima\itcast\ssm\service\Impl\users\PermissionServiceImpl.class
+com\itheima\itcast\ssm\service\users\IPermissionService.class
+com\itheima\itcast\ssm\service\Impl\logs\SysLogServiceImpl.class
+com\itheima\itcast\ssm\service\users\IUserService.class
+com\itheima\itcast\ssm\service\users\IRoleService.class
+com\itheima\itcast\ssm\service\logs\ISysLogService.class
+com\itheima\itcast\ssm\service\Impl\users\IRoleServiceImpl.class
+com\itheima\itcast\ssm\service\Impl\product\IProductServiceImpl.class
+com\itheima\itcast\ssm\service\product\IOrdersService.class
+com\itheima\itcast\ssm\service\product\IProductService.class
+com\itheima\itcast\ssm\service\Impl\product\OrdersServiceImpl.class
+com\itheima\itcast\ssm\service\Impl\users\UserServiceImpl.class

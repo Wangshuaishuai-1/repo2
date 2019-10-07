@@ -1,0 +1,8 @@
+com\itheima\itcast\ssm\domain\logs\SysLog.class
+com\itheima\itcast\ssm\domain\product\Orders.class
+com\itheima\itcast\ssm\domain\users\Permission.class
+com\itheima\itcast\ssm\domain\users\Role.class
+com\itheima\itcast\ssm\domain\users\UserInfo.class
+com\itheima\itcast\ssm\domain\product\Member.class
+com\itheima\itcast\ssm\domain\product\Traveller.class
+com\itheima\itcast\ssm\domain\product\Product.class

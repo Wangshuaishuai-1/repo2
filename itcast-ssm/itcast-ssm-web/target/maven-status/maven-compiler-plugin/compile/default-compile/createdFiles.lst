@@ -1,0 +1,7 @@
+com\itheima\itcast\ssm\controller\product_controller\OrdersController.class
+com\itheima\itcast\ssm\controller\log_controller\LogAop.class
+com\itheima\itcast\ssm\controller\user_controller\UserController.class
+com\itheima\itcast\ssm\controller\log_controller\SysLogController.class
+com\itheima\itcast\ssm\controller\user_controller\PermissionController.class
+com\itheima\itcast\ssm\controller\product_controller\ProductController.class
+com\itheima\itcast\ssm\controller\user_controller\RoleController.class
